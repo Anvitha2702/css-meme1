@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+  }
+  h1{
+    color: white;
+
+  }
+  img{
+    border: 5px solid white;
+    height: 400px;
+    width: 400px;
+  }
+  p{
+    color: white;
+  }
+  div{
+    width: 50%;
+    margin-left: 25%;
+    padding: 80px 0px 0px 0px ;
+    text-align: center;
+    border: 10px solid skyblue;
+  }
